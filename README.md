@@ -1,2 +1,0 @@
-# acessibilidade.svg
-aula20
